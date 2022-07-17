@@ -1,8 +1,8 @@
 .main-video {
     position: relative;
-    height: 700px;
-    top: -100px;
-    z-index: -1;
+    height: 603px;
+    top: -197px;
+    z-index: -2;
 }
 
 .main-video .video {
